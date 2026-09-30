@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project investigating surface water chemical quality across Central Water Commission (CWC) monitoring stations in Uttar Pradesh, India.
 
-**Status:** 🚧 In progress — Phase 1 (Project setup)
+**Status:** In progress — Phase 1 (Project setup)
 
 ## Data Sources
 
@@ -27,6 +27,7 @@ Place both files in `data/raw/` before running the notebooks.
 - Git / GitHub
 
 ## Project Structure
+```
 ├───data
 │   ├───external
 │   ├───processed
@@ -41,6 +42,7 @@ Place both files in `data/raw/` before running the notebooks.
 │   ├───queries
 │   └───schema
 └───src
+```
 
 
 
