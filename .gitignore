@@ -1,0 +1,28 @@
+# --- Raw data (local only) ---
+data/raw/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+*.ipynb_checkpoints
+
+# --- Environment / secrets ---
+.env
+*.key
+
+# --- OS files ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Large / generated files ---
+*.pbix.bak
+*.tmp
+~$*
